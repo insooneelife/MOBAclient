@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .cocos-project.json
 CMakeLists.txt
 cocos2d/
@@ -9,33 +8,3 @@ proj.linux/
 proj.win10/
 proj.win32/
 proj.win8.1-universal/
-=======
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
->>>>>>> ca7c3b81aa2963c36339622905caced60395c7aa
