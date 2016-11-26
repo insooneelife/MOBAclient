@@ -7,7 +7,8 @@ Collision
 
 -uml
 
-https://cloud.githubusercontent.com/assets/8437769/20634614/14648ce6-b396-11e6-9e07-d42679729096.png
+![uml](https://cloud.githubusercontent.com/assets/8437769/20634614/14648ce6-b396-11e6-9e07-d42679729096.png)
+
 
 -image
 
